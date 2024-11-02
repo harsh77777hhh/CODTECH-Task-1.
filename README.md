@@ -17,6 +17,22 @@ Key Activitys
 4. Provide regular updates on your progress.
 5. Adhere to company policies and maintain a professional
 
+OVERVIEW:-
+
+A simple Java calculator program typically includes:
+
+1. Import Scanner: For reading user input.
+
+
+2. Prompt User: Ask for two numbers and an operation (+, -, *, /).
+
+
+3. Perform Calculation: Use a switch statement or if-else to execute the operation.
+
+
+4. Display Result: Print the result to the console.
+
+
 OUTPUT:-
 
 
